@@ -1,0 +1,20 @@
+{
+  "name": "simplerazerlib",
+  "version": "1.0.0",
+  "description": "Simple library for accessing the REST API razer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "razer",
+    "temperature",
+    "chroma"
+  ],
+  "author": "deathart",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
